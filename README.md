@@ -1,5 +1,7 @@
 # Hello World!
- Primeiro repositório 
+Curso de Git e GitHub do Curso em Vídeo
+
+Primeiro repositório 
 
 Repositório Zero
 
